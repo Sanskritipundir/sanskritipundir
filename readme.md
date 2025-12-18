@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanskriti Pundir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center">
+  <img alt="github image" width="400" src="sanskriti.gif" />
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskritipundir" alt="sanskritipundir" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
